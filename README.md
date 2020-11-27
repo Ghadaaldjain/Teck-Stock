@@ -21,5 +21,5 @@ This was achieved using Azure Logic Apps that will be triggered every time a new
 All data is stored in Azure SQL database and files/images are stored in an Azure Storage Account Containers as blobs for cost optimisation and efficiency.
 
 Lastly, an Azure Web App was used to host the backend, 
-Leveraging a DevOps feature by using the Web App’s continuous deployment by useing the Web App's deployment center:
+Leveraging a DevOps feature: continuous deployment, by integrating the Web App's Deployment Center with this GitHub repo:
 https://github.com/Ghadaaldjain/DemoBackend
