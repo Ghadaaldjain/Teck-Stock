@@ -8,7 +8,7 @@ namespace TechStock
 {
     public partial class SignUpPage : ContentPage
     {
-        private static string queue_connection_string = "DefaultEndpointsProtocol=https;AccountName=demoappstorageacc;AccountKey=U41AoLbEAoMv0EO37DhuiOXzXa42gYSpVtGr+Am96zIYlhIaOUYU7OUFgAt8XkH3Rk+PRBRCBtfu/KYGMgsx2Q==;EndpointSuffix=core.windows.net";
+        private static string queue_connection_string = ".....";
         private static string queue_name = "demoqueue";
         public SignUpPage()
         {
