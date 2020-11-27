@@ -8,7 +8,7 @@ namespace TechStock
 {
     public partial class App : Application
     {
-        public static MobileServiceClient DatabaseServiceClient = new MobileServiceClient("https://demobackendwebapp.azurewebsites.net");
+        public static MobileServiceClient DatabaseServiceClient = new MobileServiceClient("...");
         //public static Category currentCategory = new Category();
         public static int currentCategory = new int();
         public static Users currentUser = new Users();
