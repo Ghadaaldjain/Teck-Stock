@@ -105,7 +105,7 @@ namespace TechStock
         
         private async void UploadImage(Stream stream)
         {
-            var account = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=demoappstorageacc;AccountKey=U41AoLbEAoMv0EO37DhuiOXzXa42gYSpVtGr+Am96zIYlhIaOUYU7OUFgAt8XkH3Rk+PRBRCBtfu/KYGMgsx2Q==;EndpointSuffix=core.windows.net");
+            var account = CloudStorageAccount.Parse(".....");
             var client = account.CreateCloudBlobClient();
             var container = client.GetContainerReference("user-product-images");
             await container.CreateIfNotExistsAsync();
