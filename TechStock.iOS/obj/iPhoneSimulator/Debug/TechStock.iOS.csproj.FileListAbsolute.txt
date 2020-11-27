@@ -1,0 +1,231 @@
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/TechStock.iOS.exe
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/TechStock.iOS.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.KeyVault.Core.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Storage.Common.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Storage.Queue.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/TechStock.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/TechStock.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/actool/_PartialAppManifest.items
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/actool/_BundleResourceWithLogicalName.items
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/coremlc/_PartialAppManifest.items
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/laptop.png
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/all.png
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/accessories.png
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/settings.png
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/store.png
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/home.png
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/cart.png
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.csprojAssemblyReference.cache
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.csproj.CoreCompileInputs.cache
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.csproj.CopyComplete
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.exe
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.1/optimized/catalog.png
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Data.Edm.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/de/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/es/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fr/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/it/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ja/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ko/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ru/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Microsoft.Data.Edm.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Data.OData.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/de/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/es/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fr/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/it/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ja/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ko/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ru/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Microsoft.Data.OData.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/System.Spatial.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/de/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/es/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fr/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/it/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ja/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ko/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ru/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hans/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hant/System.Spatial.resources.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Media.Abstractions.dll
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Media.Abstractions.pdb
+/Users/jumanah/Projects/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Media.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/TechStock.iOS.exe
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/TechStock.iOS.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.KeyVault.Core.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Storage.Common.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Storage.Queue.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Data.Edm.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/de/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/es/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fr/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/it/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ja/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ko/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ru/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Microsoft.Data.Edm.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.Data.OData.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/de/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/es/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fr/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/it/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ja/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ko/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ru/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Microsoft.Data.OData.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/System.Spatial.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/de/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/es/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fr/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/it/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ja/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ko/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ru/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hans/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hant/System.Spatial.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Media.Abstractions.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Media.Abstractions.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Plugin.Media.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/TechStock.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/TechStock.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.csprojAssemblyReference.cache
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.csproj.CoreCompileInputs.cache
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.csproj.CopyComplete
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.exe
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/TechStock.iOS.pdb
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/actool/_PartialAppManifest.items
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/actool/_BundleResourceWithLogicalName.items
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/coremlc/_PartialAppManifest.items
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/laptop.png
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/all.png
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/accessories.png
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/settings.png
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/store.png
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/home.png
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/cart.png
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/catalog.png
+/Users/ghada/Downloads/tech-stock/TechStock/TechStock.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/

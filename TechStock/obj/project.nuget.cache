@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNkTf4ydfp9uZq4Esf8UhhiK66dHYnBIUzg2GohxGhEv38IaSXZog/WQLSeNsI9Zn8u6MAyEGnP2iE3opLyucA==",
+  "success": true,
+  "projectFilePath": "/Users/ghada/Downloads/tech-stock/TechStock/TechStock/TechStock.csproj",
+  "expectedPackageFiles": [
+    "/Users/ghada/.nuget/packages/microsoft.azure.keyvault.core/2.0.4/microsoft.azure.keyvault.core.2.0.4.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/microsoft.azure.mobile.client/4.2.0/microsoft.azure.mobile.client.4.2.0.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/microsoft.azure.storage.common/11.1.5/microsoft.azure.storage.common.11.1.5.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/microsoft.azure.storage.queue/11.1.5/microsoft.azure.storage.queue.11.1.5.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/microsoft.data.edm/5.8.2/microsoft.data.edm.5.8.2.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/microsoft.data.odata/5.8.2/microsoft.data.odata.5.8.2.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/plugin.permissions/2.2.1/plugin.permissions.2.2.1.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/system.spatial/5.8.2/system.spatial.5.8.2.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/windowsazure.storage/8.7.0/windowsazure.storage.8.7.0.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/xam.plugin.media/3.1.3/xam.plugin.media.3.1.3.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/ghada/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": []
+}

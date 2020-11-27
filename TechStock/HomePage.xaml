@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TechStock.HomePage">
+
+    <RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+
+        <Label HorizontalTextAlignment="Center"
+                x:Name="TitleLabel"
+                Text="Welcome" TextColor="Black" FontSize="28" 
+            RelativeLayout.YConstraint="{ConstraintExpression 
+			Type=RelativeToParent,
+			Property=Height,
+            Factor=0.1}"
+            RelativeLayout.WidthConstraint="{ConstraintExpression
+			Type=RelativeToParent,
+			Property=Width,
+			Factor=1}"
+                />
+
+        <Grid 
+                RelativeLayout.YConstraint="{ConstraintExpression 
+			Type=RelativeToParent,
+			Property=Height,
+            Factor=0.3 }"
+
+            RelativeLayout.WidthConstraint="{ConstraintExpression
+			Type=RelativeToParent,
+			Property=Width,
+			Factor=1}"
+            Padding="55,0"
+    >
+
+    <Grid.RowDefinitions>
+        <RowDefinition Height="150"/>
+        <RowDefinition Height="150"/>
+           
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="150"/>
+        <ColumnDefinition Width="150"/>
+         
+    </Grid.ColumnDefinitions>
+            <Image Source="all.png" Grid.Row="0" Grid.Column="0" HorizontalOptions="Center" >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                            Tapped="All_Tapped"
+                            NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Label Text="All" FontFamily="Times Roman" TextColor="Gray" Grid.Row="0" Grid.Column="0" HorizontalOptions="Center" />
+                   
+
+            <Image Source="laptop.png" Grid.Row="0" Grid.Column="1" HorizontalOptions="Center" >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                            Tapped="Laptops_Tapped"
+                            NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Label Text="Laptops" FontFamily="Times Roman" TextColor="Gray"  Grid.Row="0" Grid.Column="1" HorizontalOptions="Center" />
+               
+            <Image Source="phone.jpg" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center" >
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                            Tapped="Phones_Tapped"
+                            NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Label Text="Phones" FontFamily="Times Roman" TextColor="Gray" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center" />
+               
+
+            <Image Source="accessories.png" Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" >
+                    
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer
+                            Tapped="Accessories_Tapped"
+                            NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </Image>
+            <Label Text="Accessories" FontFamily="Times Roman" TextColor="Gray" Grid.Row="1" Grid.Column="1" HorizontalOptions="Center" />
+               
+        
+        </Grid>
+               
+    </RelativeLayout>
+</ContentPage>
+

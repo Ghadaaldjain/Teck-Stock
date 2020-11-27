@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage
+    xmlns:local="clr-namespace:TechStock"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    x:Class="TechStock.MainPage">
+
+    <!-- a refrence to an external content page, located in: SAPO.  using name space, that we called local-->
+    <NavigationPage Title="Home"  IconImageSource="home.png"  >
+        <x:Arguments>
+            <local:HomePage/>          
+        </x:Arguments>
+
+    </NavigationPage>
+
+    <NavigationPage Title="Cart" IconImageSource="cart.png">
+        <x:Arguments>
+            <local:CartPage/>          
+        </x:Arguments> 
+    </NavigationPage>
+
+    <NavigationPage Title="Catalog"  IconImageSource="catalog.png"  >
+        <x:Arguments>
+            <local:CatalogPage/>          
+        </x:Arguments> 
+    </NavigationPage>
+
+    <NavigationPage Title="Settings"  IconImageSource="settings.png"  >
+        <x:Arguments>
+            <local:SignUpPage/>          
+        </x:Arguments> 
+    </NavigationPage>
+  
+
+    <!--if diffrent icons needed for diffrent platforms:-->
+     <!-- <ContentPage.Icon>
+       <OnPlatform
+          x:TypeArguments="FileImageSource"
+          Android="home.png"
+          iOS="home.png" />
+      </ContentPage.Icon> -->
+
+</TabbedPage>

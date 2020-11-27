@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TechStock.ProductsPage">
+
+     <RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <SearchBar 
+        SearchButtonPressed="SearchBar_SearchButtonPressed"
+        x:Name="SearchProducts"
+        Placeholder = "Search for a product..."/>
+         <StackLayout 
+            RelativeLayout.YConstraint="{ConstraintExpression 
+		    Type=RelativeToParent,
+		    Property=Height,
+            Factor=0.1}">
+
+         <ListView x:Name="productList" WidthRequest="400" HasUnevenRows="True" BackgroundColor="Transparent" SeparatorVisibility="None">
+            <ListView.ItemTemplate>
+               <DataTemplate>
+                   <ViewCell>
+                        <Frame  > 
+                           <StackLayout Orientation="Horizontal" >
+                                <Image x:Name="productImage"  Source="{Binding Image}" WidthRequest="100" HeightRequest="120"></Image>
+                                <StackLayout HorizontalOptions="StartAndExpand"> 
+                                        <Label Text="{Binding Name} " FontAttributes="Bold" FontSize="Large"/>
+                                        <Label Text="{Binding Subtitle}"/>
+                                        <Label Text="{Binding Price, StringFormat='{0} SAR'}" FontAttributes="Bold" FontSize="Medium"/>
+                                        <Button Clicked="addToCart_Clicked"  CommandParameter="{Binding Id}" Text= "Add to cart" HorizontalOptions="StartAndExpand" BorderColor="Silver" BorderWidth="1" Padding="15,0"/>
+                                </StackLayout>   
+                            </StackLayout>
+                        </Frame>
+                   </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        </StackLayout>
+     </RelativeLayout>
+</ContentPage>

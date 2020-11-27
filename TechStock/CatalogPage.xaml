@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TechStock.CatalogPage">
+<RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+    <StackLayout Padding="110,100" HorizontalOptions="FillAndExpand">
+        <Button  Text="Add Product for sale" BorderWidth="1" BorderColor="Silver" Clicked="AddButton_Clicked" Padding="20"/>
+
+    </StackLayout>
+    
+      <ListView 
+                 RelativeLayout.YConstraint="{ConstraintExpression 
+				Type=RelativeToParent,
+				Property=Height,
+                Factor=0.3}"
+
+                RelativeLayout.WidthConstraint="{ConstraintExpression
+				Type=RelativeToParent,
+				Property=Width,
+				Factor=1}"
+                x:Name="ProductsList" WidthRequest="400" HeightRequest="500" HasUnevenRows="True" BackgroundColor="Transparent" SeparatorVisibility="None">
+           <ListView.ItemTemplate>
+               <DataTemplate>
+                   <ViewCell>
+                        <Frame> 
+                           <StackLayout Orientation="Horizontal" >
+                                <Image Source="{Binding Image}" WidthRequest="80" HeightRequest="120"></Image>
+                                <StackLayout HorizontalOptions="StartAndExpand"> 
+                                        <Label Text="{Binding Name} " FontAttributes="Bold" FontSize="Large"/>
+                                        <Label Text="{Binding Subtitle}"/>
+                                        <Label Text="{Binding Price, StringFormat='{0} SAR'}" FontAttributes="Bold" FontSize="Medium"/>
+                                </StackLayout>   
+                            </StackLayout>
+                        </Frame>
+                   </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </RelativeLayout>
+</ContentPage>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TechStock.SignUpPage">
+     <RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+
+
+        <Label HorizontalTextAlignment="Center"
+                x:Name="TitleLabel"
+                Text="Sign Up " TextColor="Black" FontSize="28" 
+            RelativeLayout.YConstraint="{ConstraintExpression 
+			Type=RelativeToParent,
+			Property=Height,
+            Factor=0.1}"
+            RelativeLayout.WidthConstraint="{ConstraintExpression
+			Type=RelativeToParent,
+			Property=Width,
+			Factor=1}"
+                 />
+        <Grid Padding="50,0" 
+                 RelativeLayout.YConstraint="{ConstraintExpression 
+				Type=RelativeToParent,
+				Property=Height,
+                Factor=0.2}"
+
+                RelativeLayout.WidthConstraint="{ConstraintExpression
+				Type=RelativeToParent,
+				Property=Width,
+				Factor=1}" >
+                <StackLayout VerticalOptions="Center" HeightRequest="400" WidthRequest="200"
+                         Margin="20">
+                <Entry x:Name="emailEntry"
+                       Placeholder="Email address"
+                       Keyboard="Email"/>
+                <Entry x:Name="mobileEntry"
+                       Placeholder="+966xxxxxxxx"
+                       Keyboard="Telephone"/>
+                <Entry x:Name="passwordEntry"
+                       Placeholder="Password"
+                       IsPassword="True"/>
+                <Entry x:Name="confirmPasswordEntry"
+                       Placeholder="Confirm password "
+                       IsPassword="True"/>
+                <Button x:Name="registerButton"
+                        Margin="0,50,0,0"
+                        Text="Register"
+                        BorderWidth="1"
+                        Clicked="registerButton_Clicked"
+                        />
+                   
+                <Button Text="Already have an account?  Sign in" 
+                        x:Name="LoginButton"
+                        BackgroundColor="Transparent"
+                        Clicked="LoginButton_Clicked" 
+                        />
+                   
+                 </StackLayout>
+           </Grid>
+
+        </RelativeLayout>
+</ContentPage>

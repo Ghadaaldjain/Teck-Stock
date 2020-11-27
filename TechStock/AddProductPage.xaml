@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TechStock.AddProductPage">
+    <RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                        <Button x:Name="addProductButton"
+                        Text="Sell"
+                        Margin="300,10,0,0"
+                        Padding="3"
+                        Clicked="addButton_Clicked"
+                        ></Button>
+       <Label HorizontalTextAlignment="Center"
+                x:Name="TitleLabel"
+                Text="Add a product for sale" TextColor="DarkGray" FontSize="28" 
+            RelativeLayout.YConstraint="{ConstraintExpression 
+			Type=RelativeToParent,
+			Property=Height,
+            Factor=0.1}"
+            RelativeLayout.WidthConstraint="{ConstraintExpression
+			Type=RelativeToParent,
+			Property=Width,
+			Factor=1}"
+                 />
+
+        <Grid Padding="50,0" 
+                 RelativeLayout.YConstraint="{ConstraintExpression 
+				Type=RelativeToParent,
+				Property=Height,
+                Factor=0.2}"
+
+                RelativeLayout.WidthConstraint="{ConstraintExpression
+				Type=RelativeToParent,
+				Property=Width,
+				Factor=1}" >
+                <StackLayout VerticalOptions="Center" HeightRequest="400" WidthRequest="200"
+                         Margin="20">
+
+                <Entry x:Name="nameEntry"
+                       Placeholder="Product name"
+                       Keyboard="Text"
+                      />
+                <Entry x:Name="subtitleEntry"
+                       Placeholder="Product subtitle"
+                       Keyboard="Text"
+                      />
+               
+                <Entry x:Name="priceEntry"
+                       Placeholder="Price in SAR"
+                       Keyboard="Numeric"/>
+
+                
+                <Entry x:Name="descriptionEntry"
+                       Placeholder="Description"
+                       Keyboard="Chat"/>
+
+                <Picker x:Name="picker"
+                        Title="Select a Category">
+                    
+                </Picker>
+
+                <StackLayout>
+                    <Button Text="Select a picture"
+                            Clicked="SelectImageButton_Clicked"/>
+                    <Image x:Name="selectedImage"/>
+                </StackLayout>
+
+                   
+                   
+                 </StackLayout>
+           </Grid>
+
+        </RelativeLayout>
+</ContentPage>

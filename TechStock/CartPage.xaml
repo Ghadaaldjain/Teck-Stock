@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TechStock.CartPage">
+     <RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+      <ListView x:Name="cartProductsList" WidthRequest="400" HeightRequest="500" HasUnevenRows="True" BackgroundColor="Transparent" SeparatorVisibility="None">
+           <ListView.ItemTemplate>
+               <DataTemplate>
+                   <ViewCell>
+                        <Frame> 
+                           <StackLayout Orientation="Horizontal" >
+                                <Image Source="{Binding Image}" WidthRequest="80" HeightRequest="120"></Image>
+                                <StackLayout HorizontalOptions="StartAndExpand"> 
+                                        <Label Text="{Binding Name} " FontAttributes="Bold" FontSize="Large"/>
+                                        <Label Text="{Binding Subtitle}"/>
+                                        <Label Text="{Binding Price, StringFormat='{0} SAR'}" FontAttributes="Bold" FontSize="Medium"/>
+                                </StackLayout>   
+                            </StackLayout>
+                        </Frame>
+                   </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+            <Grid Padding="50,0" 
+                 RelativeLayout.YConstraint="{ConstraintExpression 
+				Type=RelativeToParent,
+				Property=Height,
+                Factor=0.76}"
+
+                RelativeLayout.WidthConstraint="{ConstraintExpression
+				Type=RelativeToParent,
+				Property=Width,
+				Factor=1}" >
+                <StackLayout HorizontalOptions="Center"  HeightRequest="100" WidthRequest="400">
+                  
+                    <Label x:Name="Total" FontAttributes="Bold" FontSize="Large" HorizontalOptions="Center" ></Label>
+                    <Button x:Name="invoiceBtn"></Button> 
+            </StackLayout>
+        </Grid>
+     </RelativeLayout>
+</ContentPage>

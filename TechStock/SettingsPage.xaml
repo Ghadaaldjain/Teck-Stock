@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TechStock.SettingsPage">
+    <RelativeLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+            <Label HorizontalTextAlignment="Center"
+                  x:Name="TitleLabel"
+                  TextColor="Black" FontSize="28" 
+                RelativeLayout.YConstraint="{ConstraintExpression 
+				Type=RelativeToParent,
+				Property=Height,
+                Factor=0.2}"
+                RelativeLayout.WidthConstraint="{ConstraintExpression
+				Type=RelativeToParent,
+				Property=Width,
+				Factor=1}"
+                 />
+
+           <Grid 
+                 RelativeLayout.YConstraint="{ConstraintExpression 
+				Type=RelativeToParent,
+				Property=Height,
+                Factor=0.4 }"
+
+                RelativeLayout.WidthConstraint="{ConstraintExpression
+				Type=RelativeToParent,
+				Property=Width,
+				Factor=1}" >
+              
+        
+                <StackLayout Padding="50,0" >                    
+                    <Button   Grid.Row="1" Grid.Column="0" x:Name="profile" BorderWidth="0.3" BorderColor="Gray" 
+                               FontSize="Large" FontAttributes="Bold" Clicked="user_profile_clicked"> </Button>
+                    <Button   Grid.Row="0" Grid.Column="0" x:Name="contactus" BorderWidth="0.3" BorderColor="Gray"
+                                FontSize="Large" FontAttributes="Bold" Clicked="contact_us_clicked"> </Button>
+                    <Button    Grid.Row="2" Grid.Column="0" x:Name="privacy" BorderWidth="0.3" BorderColor="Gray" 
+                                FontSize="Large" FontAttributes="Bold" Clicked="privicy_policy_clicked"> </Button>
+                    <Button   Grid.Row="1" Grid.Column="0" x:Name="signuot" BorderWidth="0.3" BorderColor="Gray" 
+                               FontSize="Large" FontAttributes="Bold" Clicked="sign_out_clicked" > </Button>
+                    
+               </StackLayout>
+            </Grid>
+        </RelativeLayout>
+</ContentPage>
