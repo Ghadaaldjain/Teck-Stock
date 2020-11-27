@@ -10,7 +10,7 @@ namespace TechStock
         public HomePage()
         {
             InitializeComponent();
-            var imagesource = (UriImageSource)ImageSource.FromUri(new Uri("https://demoappstorageacc.blob.core.windows.net/product-images/samsung_phone.png"));
+            var imagesource = (UriImageSource)ImageSource.FromUri(new Uri("....."));
         }
 
         async void All_Tapped(System.Object sender, System.EventArgs e)
